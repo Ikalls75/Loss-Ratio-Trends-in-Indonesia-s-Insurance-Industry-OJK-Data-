@@ -9,6 +9,7 @@ Hasilnya diharapkan dapat memberikan insight mengenai profitabilitas, tren klaim
 
 
 📂 Struktur Folder
+```
 insurance-loss-ratio-analysis/
 │
 ├── data/                          # Dataset mentah & hasil cleaning
@@ -24,6 +25,7 @@ insurance-loss-ratio-analysis/
 │
 ├── .gitignore                     # File & folder yang diabaikan Git
 └── README.md                      # Dokumentasi proyek
+```
 
 
 
