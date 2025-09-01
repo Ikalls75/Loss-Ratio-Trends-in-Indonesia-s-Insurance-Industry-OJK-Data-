@@ -1,4 +1,5 @@
 Insurance Loss Ratio Analysis
+
 📌 Deskripsi Proyek
 
 Proyek ini bertujuan untuk menganalisis Loss Ratio pada industri asuransi konvensional di Indonesia menggunakan data publik dari Otoritas Jasa Keuangan (OJK).
