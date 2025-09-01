@@ -70,9 +70,9 @@ Reasuransi: paling fluktuatif, naik dari 44% ke 60% (Kenaikan ~35%).
 🚀 Cara Menjalankan
 
 1. Clone repository ini:
-
+```
 git clone https://github.com/Ikalls75/insurance-loss-ratio-analysis.git
-
+```
 2. Buka folder notebooks/ untuk eksplorasi analisis Python.
 
 3. Buka file dashboard/loss_ratio_dashboard.pbix di Power BI Desktop untuk melihat visualisasi interaktif.
